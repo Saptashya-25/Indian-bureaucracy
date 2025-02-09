@@ -7,4 +7,4 @@ Inside the IAS cleaning file, the data for the bureaucrat officers of India from
 
 This novel dataset has been cleaned and created and can be used to answer many questions about the Indian political economy and bureaucrats.
 
-Please refer to the working paper to learn more about the dataset and its uses.
+Please refer to the working paper to learn more about the dataset and its uses in detail.
